@@ -154,8 +154,6 @@ if($total_reg == 0){
 							</div>						
 						</div>
 
-						
-
 					</div>
 
 

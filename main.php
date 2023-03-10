@@ -163,10 +163,6 @@ require_once("cabecalho.php");
             <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet" />
 
 
-
-
-
-
             <table class="table align-middle mb-0 bg-white">
 
                 <thead class="bg-light">
@@ -290,7 +286,8 @@ require_once("cabecalho.php");
         <?php
         } else {
         ?>
-            <h3>TODOS OS CHAMADOS ATENDIDOS! &#x1F60E;</h3>
+            &nbsp;&nbsp;
+            <h3 align="center">TODOS OS CHAMADOS ATENDIDOS! &#x1F60E;</h3>
 
         <?php
         } ?>

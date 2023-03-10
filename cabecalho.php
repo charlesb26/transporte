@@ -55,10 +55,10 @@ echo("<meta http-equiv='refresh' content='60'>");
     <!-- Collapsible wrapper -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <!-- Navbar brand -->
-      <a class="navbar-brand mt-2 mt-lg-0" href="#">
+      <a class="navbar-brand mt-2 mt-lg-0" href="./sistema/index.php">
         <img
           src="./sistema/imagens/logo1.png"
-          height="50"
+          height="55"
           alt="Transporte"
           loading="lazy"
         />
@@ -66,13 +66,13 @@ echo("<meta http-equiv='refresh' content='60'>");
       <!-- Left links -->
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="https://www.facebook.com/govroraima"><i class="fab fa-2x fa-facebook-square"></i></a>
+          <a class="nav-link" href="https://www.facebook.com/govroraima"><i class="fab fa-2x fa-facebook-square text-primary"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.instagram.com/govroraima/"><i class="fab fa-2x fa-instagram"></i></a>
+          <a class="nav-link" href="https://www.instagram.com/govroraima/"><i class="fab fa-2x fa-instagram text-primary"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="http://www.setrabes.rr.gov.br"><i class="fas fa-2x fa-globe"></i></a>
+          <a class="nav-link" href="http://www.setrabes.rr.gov.br"><i class="fas fa-2x fa-globe text-primary"></i></a>
         </li>
       </ul>
       <!-- Left links -->
